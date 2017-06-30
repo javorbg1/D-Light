@@ -30,7 +30,7 @@
             <configuration_option name="browscap" value="C:\xampp\php\extras\browscap.ini" />
             <configuration_option name="cli.pager" value="" />
             <configuration_option name="cli.prompt" value="\b \&gt; " />
-            <configuration_option name="curl.cainfo" value="C:\xampp\apache\bin\curl-ca-bundle.crt" />
+            <configuration_option name="curl.cainfo" value="C:\xampp\php\extras\ssl\cacert.pem" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
